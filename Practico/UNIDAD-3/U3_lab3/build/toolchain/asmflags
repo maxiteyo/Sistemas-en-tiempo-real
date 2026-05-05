@@ -1,0 +1,6 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=/home/maximo/Escritorio/Sistemas_en_tiempo_real/Practico/UNIDAD-3/U3_lab3/build/specs/picolibc.specs"
