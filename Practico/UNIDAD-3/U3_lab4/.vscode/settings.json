@@ -1,0 +1,14 @@
+{
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "idf.currentSetup": "/home/maximo/.espressif/v6.0.1/esp-idf",
+  "idf.port": "/dev/ttyUSB0",
+  "clangd.path": "/home/maximo/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/home/maximo/Escritorio/Sistemas_en_tiempo_real/Practico/UNIDAD-3/U3_lab4/build"
+  ],
+  "idf.flashType": "UART"
+}

@@ -1,0 +1,2 @@
+--flash-mode dio --flash-freq 40m --flash-size 2MB
+0x10000 u3_lab4_inter_core_queues.bin
